@@ -1,0 +1,19 @@
+{
+  "name": "com.twinfaerie.fmodextendedinspector",
+  "version": "1.0.0",
+  "displayName": "TwinFaerie FMod-Extended-Inspector",
+  "description": "Easier FMod Param selection",
+  "unity": "2020.3",
+  "documentationUrl": "https://github.com/TwinFaerie/twinfaerie-fmodextendedinspector/",
+  "changelogUrl": "https://github.com/TwinFaerie/twinfaerie-fmodextendedinspector/releases",
+  "licensesUrl": "https://github.com/TwinFaerie/twinfaerie-fmodextendedinspector/blob/main/LICENSE",
+  "repository": "https://github.com/TwinFaerie/twinfaerie-fmodextendedinspector",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@twinfaerie"
+  },
+  "author": {
+    "name": "Twin Faerie",
+    "email": "support@twinfaerie.my.id",
+    "url": "https://www.twinfaerie.my.id/"
+  }
+}

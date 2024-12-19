@@ -1,0 +1,21 @@
+{
+    "name": "TwinFaerie.FModExtendedInspector.Editor",
+    "rootNamespace": "",
+    "references": [
+        "TwinFaerie.FModExtendedInspector",
+        "TwinFaerie.OdinExtendedInspector.Editor",
+        "FMODUnity",
+        "FMODUnityEditor"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
